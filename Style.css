@@ -1,0 +1,102 @@
+/*body*/
+body {
+    height: auto;
+    background: rgba(198, 233, 247, 0.459) url(/LPAG\ background.png) no-repeat center fixed; 
+    background-size: contain;
+    }
+
+/*Header*/
+.div1 {
+    color: rgba(15, 15, 15, 0.918);
+    font-size: 18px;
+    }
+.Par{
+    background-color: rgb(110, 192, 247);
+    color: rgb(32, 33, 34);
+    border: solid;
+    padding: 2%;
+}    
+
+/*Section Windshield Replacement & Repair*/
+.List{
+    list-style-type: none;
+}
+.vid1{
+    display: inline;
+    height: 400px;
+    width: 500px;
+    }
+
+.ol1{
+    display: inline-block;
+    height: auto;
+    width: 550px;
+    font-size: 16pt;
+    }
+
+.a1{
+    text-decoration:none;
+    color: rgb(201, 30, 38);
+    }
+
+/*Section Window Replacement*/
+.vid2{
+    display: inline-block;
+    height: auto;
+    width: 500px;
+    }
+
+.dl{
+    display: inline-block;
+    height: auto;
+    width: 750px;
+    font-size: 16pt;
+    }
+
+.a2{
+    text-decoration:none;
+    color: rgb(201, 30, 38);
+    }
+   
+    /*Section Window Tinting*/
+.vid3{
+    display: inline-block;
+    height: auto;
+    width: 500px;
+    }
+
+.unlist{
+    display: inline-block;
+    height: auto;
+    width: 700px;
+    font-size: 18pt;
+    list-style-type: square;
+    }
+
+.a3{
+    text-decoration:none;
+    color: rgb(201, 30, 38);
+    }
+       
+    /*Footer*/
+.img1{
+    display: inline-block;
+    height: 100px;
+    width: auto;
+
+}    
+
+.add{
+    display: inline-block;
+    height: auto;
+    width: auto;
+    text-align: center ;
+    font-weight: bolder;
+    margin: 1% 5% 1% 5%;
+}
+
+.img2{
+    display: inline-block;
+    height: 220px;
+    width: 360px;
+}
